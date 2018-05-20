@@ -40,7 +40,7 @@ avatar: "/img/nguyen.JPG"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Nguyen ND
+  name: Nguyen
   email: "nguyenngodinh@outlook.com"
   github: nguyenngodinh    # eg. daattali
 
@@ -75,7 +75,7 @@ share-links-active:
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+disqus: "nguyenngodinh-github-io"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
