@@ -81,7 +81,7 @@ disqus: "nguyenngodinh-github-io"
 google_analytics: "UA-119593603-1"
 
 # Google Tag Manager ID
-#gtm: ""
+gtm: "GTM-PQM5PLJ"
 
 # Facebook App ID
 # fb_app_id: ""
